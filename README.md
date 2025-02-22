@@ -10,9 +10,9 @@ DOMAIN:FRONTEND WEB DEVELOPMENT
 
 DURATION:4 WEEKS
 
-MENTOR NAME:NEELA 
+MENTOR NAME:NEELA SANTHOSH
 
-#with the help of tools like HTML, CSS, and JavaScript,  I have created an interactive and engaging quiz experience for users.
+#With the help of tools like HTML, CSS, and JavaScript,  I have created an interactive and engaging quiz experience for users.
 structured the content with HTML.
 styled the application with CSS.
 added interactivity with JavaScript.
