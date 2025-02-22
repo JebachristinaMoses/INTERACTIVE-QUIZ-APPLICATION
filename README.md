@@ -43,7 +43,5 @@ Used JavaScript to display questions, capture user input, and provide feedback
 
 ![Image](https://github.com/user-attachments/assets/1ea2a8b0-d039-4cc6-9c26-32bd9decd969)
 
-![Image](https://github.com/user-attachments/assets/b921e61c-36db-451a-97ce-0a17ce4ba19b)
-
 ![Image](https://github.com/user-attachments/assets/ed6dc374-1774-45de-8a2a-75d34ca4c625)
 
